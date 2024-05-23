@@ -1,8 +1,13 @@
 #include<iostream.h>
 using namespace std;
+
 void quicksort()
 {
     
+}
+void bubbleSort()
+{
+    //code
 }
 int main()
 {
