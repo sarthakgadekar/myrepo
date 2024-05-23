@@ -1,5 +1,9 @@
 #include<iostream.h>
 using namespace std;
+void quicksort()
+{
+    
+}
 int main()
 {
     cout<<"hello world!"<<endl;
